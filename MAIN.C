@@ -21,7 +21,7 @@
 #define dgaro	205	
 #define dsero	186	
 
-
+/* 메인 시작 */
 int main()
 {
 	int x;
